@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dzYp4B4otvST2y4GSRlRTa8zPcq8xmrHAlB5rrYJS/RMhPfmT1MDygJ7F+3bMZxr/x/TkHWPhub+31bsAcx33w==",
+  "dgSpecHash": "ESS+sKoVjH9shOPW8Aw+fuy/hciaJuMEJLzjTvlWx4lvtQo6UaicbVqiA89jfzlQB8MVMN5ZK9c4QnrQncV2Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\AcessoTransfer\\AcessoTransfer\\src\\AcessoTransfer.Data\\AcessoTransfer.Data.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Teste-Sqlite\\Transfer-Sqlite-Api\\src\\AcessoTransfer.Data\\AcessoTransfer.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
